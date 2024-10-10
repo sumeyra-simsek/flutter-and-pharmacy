@@ -1,16 +1,8 @@
-# pharmacy_project
 
-A new Flutter project.
+![Ekran Görüntüsü (804)](https://github.com/user-attachments/assets/848f6af0-2665-476b-a0ed-43e3cf53f7ab)
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+![Ekran Görüntüsü (809)](https://github.com/user-attachments/assets/3f7c553e-de8b-4a33-85a4-49cf559764f5)
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Ekran Görüntüsü (808)](https://github.com/user-attachments/assets/59a22d4c-2904-4797-aecb-a37c95c56fc0)
